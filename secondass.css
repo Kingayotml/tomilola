@@ -1,0 +1,28 @@
+nav{
+    display:flex;
+    width: 20%;
+  }
+  .shoe{
+    display: flex;
+  margin-right: 25%;
+  padding-left: 300px
+  }
+  section{
+    width: 350px;
+    height: 400px;
+}
+.white{
+    height: 100px;
+    width: 100px;
+}
+.shopping{
+    height: 100px;
+    width: 100px;
+}
+.shoeshop{
+    width: 100px;
+    margin-left: 20px;
+}
+.spree{
+    width:100px;
+}
